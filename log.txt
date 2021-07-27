@@ -1,0 +1,20 @@
+Command sent 1 FORWARD 1 seconds
+Packet Acknowledged, executing command.
+Command sent 3 UP
+Packet Acknowledged, executing command.
+Command sent 4 OPEN
+Packet Acknowledged, executing command.
+Command sent 1 BACKWARD 1 seconds
+Packet Acknowledged, executing command.
+Command sent 3 DOWN
+Packet Acknowledged, executing command.
+Command sent 3 DOWN
+Packet Negative Acknowledgement: NACK:  Invalid CRC
+Command sent 3 UP
+Packet Negative Acknowledgement: NACK:  Invalid CRC
+Command sent 1 LEFT 3 seconds
+Packet Acknowledged, executing command.
+Command sent 4 OPEN
+Packet Acknowledged, executing command.
+Command sent 2 UNKNOWN
+Packet Acknowledged, executing command.

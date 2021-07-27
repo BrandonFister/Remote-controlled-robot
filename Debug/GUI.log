@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Pkt_Def.cpp
+c:\users\havan\onedrive - seneca college of applied arts & technology\seneca\semester 04\btn415\lab4 at home\johnny-5\johnny_5\johnny_5\pkt_def.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\havan\onedrive - seneca college of applied arts & technology\seneca\semester 04\btn415\lab4 at home\johnny-5\johnny_5\johnny_5\pkt_def.cpp(197): warning C4018: '<': signed/unsigned mismatch
+  MySocket.cpp
+  Log.cpp
+  GUIDlg.cpp
+  GUI.cpp
+  CmdObj.cpp
+  BuffObj.cpp
+  Generating Code...
+  GUI.vcxproj -> C:\Users\havan\OneDrive - Seneca College of Applied Arts & Technology\Seneca\Semester 04\BTN415\Lab4 at home\Johnny-5\Johnny_5\Johnny_5\Debug\GUI.exe

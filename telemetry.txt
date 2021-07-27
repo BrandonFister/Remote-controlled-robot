@@ -1,0 +1,14 @@
+Sonar: 1 Arm Position: 32699, STOPPED, Arm is Down, Claw is Closed
+Sonar: 2 Arm Position: 32698, STOPPED, Arm is Down, Claw is Closed
+Sonar: 3 Arm Position: 32697, DRIVING, Arm is Up, Claw is Closed
+Sonar: 4 Arm Position: 32696, DRIVING, Arm is Up, Claw is Open
+Sonar: 5 Arm Position: 32695, STOPPED, Arm is Up, Claw is Open
+Sonar: 6 Arm Position: 32694, DRIVING, Arm is Up, Claw is Open
+Sonar: 7 Arm Position: 32693, DRIVING, Arm is Up, Claw is Open
+Sonar: 8 Arm Position: 32692, STOPPED, Arm is Down, Claw is Open
+Sonar: 9 Arm Position: 32691, STOPPED, Arm is Down, Claw is Open
+Sonar: 10 Arm Position: 32690, STOPPED, Arm is Down, Claw is Open
+Sonar: 11 Arm Position: 32689, DRIVING, Arm is Down, Claw is Open
+Sonar: 12 Arm Position: 32688, DRIVING, Arm is Down, Claw is Open
+Sonar: 13 Arm Position: 32687, STOPPED, Arm is Down, Claw is Open
+Sonar: 14 Arm Position: 32686, STOPPED, Arm is Down, Claw is Open

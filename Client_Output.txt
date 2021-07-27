@@ -1,0 +1,40 @@
+TCP_Client Thread Started
+*** Validate UDP startup with TCP Socket
+PASSED
+Sending: I love BTN415
+Msg = I Love BTN415 too!, Bytes = 19
+SIZE Check -- PASSED
+Msg Check -- PASSED
+SetIPAddr -- PASSED
+SetPortNum -- PASSED
+*** Validate TCP Socket shutdown with UDP
+PASSED
+TCP Socket Disconnect PASSED
+SetPortNum -- PASSED
+Sending: I love BTN415
+Msg = I Love BTN415 too!, Bytes = 19
+TCP_Client thread finished
+
+*****************************
+
+UDP_Client Thread Started
+*** Validate TCP startup with UDP Socket
+PASSED
+Sending: I love BTN415
+Msg = I Love BTN415 too!, Bytes = 19
+SIZE Check -- PASSED
+Msg Check -- PASSED
+Sending: I love BTN415
+Msg = I Love BTN415 too!, Bytes = 19
+SIZE Check -- PASSED
+Msg Check -- PASSED
+*** Validate TCP Disconect with UDP socket
+PASSED
+Terminate UDP -- PASSED
+SetPortNum -- PASSED
+New UDP Socket setup PASSED
+Sending: I love BTN415
+Msg = I Love BTN415 too!, Bytes = 19
+SIZE Check -- PASSED
+Msg Check -- PASSED
+TCP_Client thread finished
